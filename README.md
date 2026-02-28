@@ -12,6 +12,4 @@ Blue Team · Detection · Incident Response
 - Technical write-ups  
 
 ---
-## 📈 Philosophy
-Practice > theory  
-Consistency > intensity
+No zero days...
