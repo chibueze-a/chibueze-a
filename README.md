@@ -5,13 +5,13 @@ Cybersecurity professional building practical labs and documenting real-world si
 ## Focus
 Blue Team · Detection · Incident Response
 
-## Here
-Hands-on labs  
-Attack simulations  
-Detection experiments  
-Technical write-ups  
+## What you'll find here
+- Hands-on labs  
+- Attack simulations  
+- Detection experiments  
+- Technical write-ups  
 
 ---
-
+## 📈 Philosophy
 Practice > theory  
 Consistency > intensity
