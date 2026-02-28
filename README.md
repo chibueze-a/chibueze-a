@@ -1,4 +1,4 @@
-# Chibueze
+# Hi, I'm Chibueze
 
 Cybersecurity professional building practical labs and documenting real-world simulations.
 
