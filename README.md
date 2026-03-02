@@ -19,6 +19,6 @@ I specialize in bridging the gap between offensive techniques and defensive tele
 
 ## Featured Projects
 - **[SIEM Log Monitoring Lab](SIEM-Log-Monitoring-Threat-Detection-Lab):** End-to-end detection of RDP Brute Force, LSASS dumping, and C2 activity.
-- **[Windows10-Vulnerability-Management with Tenable](Windows10-Vulnerability-Management):** Systematic vulnerability assessment and remediation using Tenable.io. 
+- **[Windows10-Vulnerability-Management with Tenable](https://github.com/chibueze-a/Windows10-Vulnerability-Management):** Systematic vulnerability assessment and remediation using Tenable.io. 
 ---
 *No zero days... just relentless knowledge acquisition.*
